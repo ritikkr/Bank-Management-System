@@ -40,7 +40,7 @@ public:
     int check(int);
 
     /// function to switch between different exisiting functionality
-    void funcSwitcher(int choice);
+    void funcSwitcher(int);
 
     /// function to map or associate the account number with object number
     void addAccount(int);
